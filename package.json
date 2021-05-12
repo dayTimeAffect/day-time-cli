@@ -1,0 +1,16 @@
+{
+  "name": "day-time-cli",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "node"
+  ],
+  "author": "dayTimeAffect",
+  "license": "MIT",
+  "homepage": "https://github.com/dayTimeAffect/day-time-cli#readme"
+}
